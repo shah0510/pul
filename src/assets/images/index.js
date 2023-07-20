@@ -38,7 +38,15 @@ import vivo65 from "./products/bestSeller/vivo65.jpg";
 import vivo55 from "./products/bestSeller/vivo55.jpg";
 import banner1 from "./banner/PULMONIX.png";
 import banner2 from "./sale/banner2.jpg"
+import z2 from "./products/bestSeller/z2.jpg";
+import psg from "./products/bestSeller/psg.jpg";
+import resp from "./products/bestSeller/resp.jpg";
+import eco from "./products/bestSeller/eco.jpg";
 export {
+  z2,
+  psg,
+  resp,
+  eco,
   logo,
   logoLight,
   bannerImgOne,

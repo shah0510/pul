@@ -4,12 +4,6 @@ import {
   spfThree,
   spfFour,
   bestSellerOne,
-  bestSellerTwo,
-  bestSellerThree,
-  bestSellerFour,
-  newArrOne,
-  newArrTwo,
-  newArrThree,
   newArrFour,
   vivo1,
   vivo45,
@@ -17,8 +11,11 @@ import {
   vivo3,
   vivo65,
   vivo55,
+  z2,
+  eco,
+psg,
+resp,
 } from "../assets/images/index";
-
 // =================== NavBarList Start here ====================
 export const navBarList = [
   {
@@ -161,7 +158,7 @@ export const paginationItems = [
           feat35:"• Suitable for use in hospital and home",
           feat36:"• Closer monitoring with Breas accessory box",
           color:"Mixed",
-          badge:true,
+          badge:false,
           des:"The Vivo 3 is a new generation bi-level ventilator designed for personalized and comfortable respiratory support – both non-invasive and invasive – for non-dependent patients with chronic breathing insufficiency. The intuitive interface ensures ease of use. A comprehensive set of modes and extensive monitoring capabilities allow for great flexibility, making the ventilator a perfect choice for a variety of patients. ",
   },
   {
@@ -238,7 +235,7 @@ export const paginationItems = [
   },
   {
     _id: 1007,
-    img: bestSellerThree,
+    img: z2,
     productName: "Z2",
     func1:"Z2 CPAP",
     func2:"Z2 Auto",
@@ -253,13 +250,13 @@ export const paginationItems = [
     feat36:"6. General status display (date, mode, Auto Start/Stop) ",
     feat37:"7. Fault indicator (if fault occurs)",
     color:"Black",
-    badge:true,
+    badge:false,
     des:"",
   },
   {
     _id: 1008,
-    img: bestSellerFour,
-    productName: "SOMNOtouch",
+    img: resp,
+    productName: "SOMNOtouch™ Resp",
     func1:"Cardiorespiratory Screening in the size of a credit card",
     func2:"A new generation of polygraphy",
     func3:"Online signal check on tablet PC or mobile phone",
@@ -285,7 +282,7 @@ feat29:"•	AUX-connection for extended recordings e.g. PLM, ECG, EEG, EOG, EMG"
   },
   {
     _id: 1009,
-    img: newArrOne,
+    img: psg,
     productName: "SOMNOtouch™ PSG",
     func1:"Colour Touch Screen",
     func2:"Versatility – In a compact design",
@@ -318,7 +315,7 @@ feat29:"•	AUX-connection for extended recordings e.g. PLM, ECG, EEG, EOG, EMG"
   },
   {
     _id: 1010,
-    img: newArrTwo,
+    img: eco,
     productName: "SOMNOtouch™ RESP eco ",
     func1:"Diagnose better with SOMNOtouch™ RESP eco ",
     func2:"Simple easy to use interface",
