@@ -62,11 +62,10 @@ const SignIn = () => {
             </span>
             <p className="text-base text-gray-300">
               <span className="text-white font-semibold font-titleFont">
-                Get started fast with OREBI
+                Get started fast with PULMONIX
               </span>
               <br />
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab omnis
-              nisi dolor recusandae consectetur!
+              We Pulmonix Healthcare Pvt. Ltd. are 12 years old Medical Equipment Company specializing in Critical Care, Respiratory Home Care , Emergency, Sleep Medical and Hospital Equipments providing high quality products and efficient service.
             </p>
           </div>
           <div className="w-[300px] flex items-start gap-3">
@@ -75,11 +74,10 @@ const SignIn = () => {
             </span>
             <p className="text-base text-gray-300">
               <span className="text-white font-semibold font-titleFont">
-                Access all OREBI services
+                Quality services
               </span>
               <br />
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab omnis
-              nisi dolor recusandae consectetur!
+              Since, inspection Pulmonix Healthcare Pvt. Ltd. has built a strong reputation of being Dedicated Service Oriented and Trustworthy Company 
             </p>
           </div>
           <div className="w-[300px] flex items-start gap-3">
@@ -88,17 +86,16 @@ const SignIn = () => {
             </span>
             <p className="text-base text-gray-300">
               <span className="text-white font-semibold font-titleFont">
-                Trusted by online Shoppers
+                Staff
               </span>
               <br />
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab omnis
-              nisi dolor recusandae consectetur!
+              Pulmonix Healthcare Pvt. Ltd. has a wide range of professionals who cater to Sales , Service and Maintenance of medical equipment.
             </p>
           </div>
           <div className="flex items-center justify-between mt-10">
             <Link to="/">
               <p className="text-sm font-titleFont font-semibold text-gray-300 hover:text-white cursor-pointer duration-300">
-                © OREBI
+                © PULMONIX
               </p>
             </Link>
             <p className="text-sm font-titleFont font-semibold text-gray-300 hover:text-white cursor-pointer duration-300">
@@ -138,7 +135,7 @@ const SignIn = () => {
                 {/* Email */}
                 <div className="flex flex-col gap-.5">
                   <p className="font-titleFont text-base font-semibold text-gray-600">
-                    Work Email
+                   Email Id
                   </p>
                   <input
                     onChange={handleEmail}

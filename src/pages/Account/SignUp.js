@@ -148,11 +148,10 @@ const SignUp = () => {
             </span>
             <p className="text-base text-gray-300">
               <span className="text-white font-semibold font-titleFont">
-                Get started fast with OREBI
+                Get started fast with PULMONIX
               </span>
               <br />
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab omnis
-              nisi dolor recusandae consectetur!
+              We Pulmonix Healthcare Pvt. Ltd. are 12 years old Medical Equipment Company specializing in Critical Care, Respiratory Home Care , Emergency, Sleep Medical and Hospital Equipments providing high quality products and efficient service.
             </p>
           </div>
           <div className="w-[300px] flex items-start gap-3">
@@ -161,11 +160,10 @@ const SignUp = () => {
             </span>
             <p className="text-base text-gray-300">
               <span className="text-white font-semibold font-titleFont">
-                Access all OREBI services
+                Quality services
               </span>
               <br />
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab omnis
-              nisi dolor recusandae consectetur!
+              Since, inspection Pulmonix Healthcare Pvt. Ltd. has built a strong reputation of being Dedicated Service Oriented and Trustworthy Company 
             </p>
           </div>
           <div className="w-[300px] flex items-start gap-3">
@@ -174,16 +172,15 @@ const SignUp = () => {
             </span>
             <p className="text-base text-gray-300">
               <span className="text-white font-semibold font-titleFont">
-                Trusted by online Shoppers
+                Staff
               </span>
               <br />
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab omnis
-              nisi dolor recusandae consectetur!
+              Pulmonix Healthcare Pvt. Ltd. has a wide range of professionals who cater to Sales , Service and Maintenance of medical equipment.
             </p>
           </div>
           <div className="flex items-center justify-between mt-10">
             <p className="text-sm font-titleFont font-semibold text-gray-300 hover:text-white cursor-pointer duration-300">
-              © OREBI
+              © PULMONIX
             </p>
             <p className="text-sm font-titleFont font-semibold text-gray-300 hover:text-white cursor-pointer duration-300">
               Terms
@@ -379,7 +376,7 @@ const SignUp = () => {
                     type="checkbox"
                   />
                   <p className="text-sm text-primeColor">
-                    I agree to the OREBI{" "}
+                    I agree to the PULMONIX{" "}
                     <span className="text-blue-500">Terms of Service </span>and{" "}
                     <span className="text-blue-500">Privacy Policy</span>.
                   </p>
